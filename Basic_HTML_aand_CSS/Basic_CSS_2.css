@@ -1,0 +1,15 @@
+p {
+  color: black;
+  font-size: medium;
+  text-align: center;
+  text-shadow: 2px 2px 5px darkblue;
+}
+h1 {
+  color: lime;
+  text-align: center;
+  text-shadow: 2px 2px 7px black;
+}
+
+/* Write comment here */
+/* This is a comment just for myself to see */
+&
